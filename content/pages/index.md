@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a aspiring developer.
+    title: I’m an aspiring developer.
     subtitle: _________________________________________________________________
     styles:
       self:
